@@ -1,0 +1,10 @@
+.App{
+  text-align: center;
+}
+
+
+.Routes-pages{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
